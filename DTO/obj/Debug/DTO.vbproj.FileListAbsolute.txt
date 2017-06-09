@@ -1,0 +1,9 @@
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\DTO\bin\Debug\DTO.dll
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\DTO\bin\Debug\DTO.xml
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\DTO\obj\Debug\DTO.vbprojResolveAssemblyReference.cache
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\DTO\obj\Debug\DTO.Resources.resources
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\DTO\obj\Debug\DTO.dll
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\DTO\obj\Debug\DTO.xml
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\DTO\obj\Debug\DTO.pdb
