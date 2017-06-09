@@ -1,0 +1,16 @@
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\BUS\bin\Debug\BUS.dll
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\BUS\bin\Debug\BUS.pdb
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\BUS\bin\Debug\BUS.xml
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\BUS\bin\Debug\DAO.dll
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\BUS\bin\Debug\DTO.dll
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\BUS\bin\Debug\MySql.Data.dll
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\BUS\bin\Debug\DAO.pdb
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\BUS\bin\Debug\DAO.xml
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\BUS\bin\Debug\DTO.pdb
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\BUS\bin\Debug\DTO.xml
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\BUS\obj\Debug\BUS.vbprojResolveAssemblyReference.cache
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\BUS\obj\Debug\BUS.Resources.resources
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\BUS\obj\Debug\BUS.vbproj.GenerateResource.Cache
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\BUS\obj\Debug\BUS.dll
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\BUS\obj\Debug\BUS.xml
+C:\Users\My Tien Bui\Source\Repos\QuanLyNhaSach-NMCNPM\BUS\obj\Debug\BUS.pdb
